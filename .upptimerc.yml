@@ -1,0 +1,53 @@
+# Change these first
+owner: JNA-APP # Your GitHub organization or username, where this repository lives
+repo: monitoring # The name of this repository
+
+sites:
+  - name: TV Internet Deals
+    url: https://www.tvinternetdeals.org
+  - name: JNA Dealer
+    url: https://www.jnadealerprogram.com
+  - name: JNA.Org
+    url: https://jna.org
+  - name: Wowmover
+    url: https://wowmover.com
+  - name: JNA Retail
+    url: https://jnaretail.com/  
+  - name: Medicare Service
+    url: https://medicareservice.net/
+  - name: Partnerchannel.org
+    url: https://www.Partnerchannel.org/
+  - name: Ducky Unlimited
+    url: https://www.duckyunlimited.com/
+  - name: Solar Installers Near Me
+    url: https://solarinstallersnearme.org/
+  - name: Top Warranty
+    url: https://topwarranty.net
+  - name: Trump Mobile
+    url: https://www.trumpmobile.com
+  - name: Test broken website
+    url: https://www.asaasasasasasasasa.orgy/
+    
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # cname: jna-dealer-program.github.io
+  baseUrl: /stats
+  logoUrl: https://www.jnadealerprogram.com/blog/wp-content/uploads/2023/02/jnadplogo.jpg
+  name: Monitoring
+  introTitle: "Monitor and Status page for JNA Websites"
+  introMessage: This is a status page that uses **real-time** data from JNA Dealer Websites
+  links:
+    - rel: stylesheet
+      href: https://jna-dealer-program.github.io/global.css
+
+
+i18n:
+  footer: ©️  2023 - Created by Joey 
+  liveStatus: Service Status
+  allSystemsOperational: All services are operational! 
+  
+  
+  
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
