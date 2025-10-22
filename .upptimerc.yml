@@ -3,10 +3,12 @@ owner: JNA-APP # Your GitHub organization or username, where this repository liv
 repo: jna-app.github.io # The name of this repository
 
 sites:
-  - name: TV Internet Deals
-    url: https://www.tvinternetdeals.org
+  - name: Trump Mobile
+    url: https://www.trumpmobile.com
   - name: JNA Dealer
     url: https://www.jnadealerprogram.com
+  - name: TV Internet Deals
+    url: https://www.tvinternetdeals.org
   - name: JNA.Org
     url: https://jna.org
   - name: Wowmover
@@ -23,8 +25,6 @@ sites:
     url: https://solarinstallersnearme.org/
   - name: Top Warranty
     url: https://topwarranty.net
-  - name: Trump Mobile
-    url: https://www.trumpmobile.com
   - name: Test broken website
     url: https://www.asaasasasasasasasa.orgy/
     
@@ -32,7 +32,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: jna-dealer-program.github.io
-  baseUrl: /stats
+  baseUrl: /
   logoUrl: https://www.jnadealerprogram.com/blog/wp-content/uploads/2023/02/jnadplogo.jpg
   name: Monitoring
   introTitle: "Monitor and Status page for JNA Websites"
@@ -43,7 +43,7 @@ status-website:
 
 
 i18n:
-  footer: ©️  2023 - Created by Joey 
+  footer: ©️  2025 - Created by Joey 
   liveStatus: Service Status
   allSystemsOperational: All services are operational! 
   
