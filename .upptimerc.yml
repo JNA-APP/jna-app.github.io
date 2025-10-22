@@ -39,7 +39,7 @@ status-website:
   introMessage: This is a status page that uses **real-time** data from JNA Dealer Websites
   links:
     - rel: stylesheet
-      href: https://jna-dealer-program.github.io/global.css
+      href: https://jna-app.github.io/global.css
 
 
 i18n:
