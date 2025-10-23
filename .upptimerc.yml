@@ -33,7 +33,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: jna-dealer-program.github.io
   theme: dark
- # baseUrl: jna-app.github.io
+  baseUrl: /jna-app.github.io
   logoUrl: https://www.jnadealerprogram.com/blog/wp-content/uploads/2023/02/jnadplogo.jpg
   name: Monitoring
   introTitle: "Monitoring and Status page for JNA Websites"
